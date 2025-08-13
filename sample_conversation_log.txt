@@ -1,0 +1,9 @@
+[08-13 14:30] Speech-to-Text: Hello, how are you today? -> Hello, how are you today?
+[08-13 14:31] Text-to-Speech: I am doing well, thank you -> Spoken aloud
+[08-13 14:32] Quick Phrase: Thank you very much. -> Spoken aloud
+[08-13 14:33] Template: I need medical help. -> Spoken aloud
+[08-13 14:34] Practice: The weather is very nice today -> The weather is very nice today
+[08-13 14:35] Speech-to-Text: Can you please help me with this task? -> Can you please help me with this task?
+[08-13 14:36] Text-to-Speech: I understand your request -> Spoken aloud
+[08-13 14:37] Quick Phrase: Excuse me. -> Spoken aloud
+[08-13 14:38] Template: Good morning! -> Spoken aloud
